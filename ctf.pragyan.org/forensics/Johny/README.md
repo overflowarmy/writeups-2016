@@ -15,6 +15,6 @@ In the archive is contained a text file with the following content:
 
 `loi wtnk az cyhimzm8kka12mo`.
 
-Assuming we can replace the first three words with `the flag is`, we can then recover the whole flag:
+Assuming we can replace the first three words with `the flag is`, we can then recover the whole flag using the Vigenere cipher:
 
-The flag is ``.
+The flag is `YHZVIHF8GTS12ZK`.
